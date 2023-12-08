@@ -228,22 +228,22 @@ public class MSBoard extends JPanel implements ActionListener{
     }  
 
 	private void loadImages(){
-        ImageIcon iisc = new ImageIcon("src/images/Scenic.jpg");
+        ImageIcon iisc = new ImageIcon("Minesweeper/src/images/Scenic.jpg");
 	    Scenic = iisc.getImage();
 
-        ImageIcon iisn = new ImageIcon("src/images/Snowy.jpg");
+        ImageIcon iisn = new ImageIcon("Minesweeper/src/images/Snowy.jpg");
 	    Snowy = iisn.getImage();
 
-        ImageIcon iit = new ImageIcon("src/images/tile.jpg");
+        ImageIcon iit = new ImageIcon("Minesweeper/src/images/tile.jpg");
         Tile = iit.getImage();
 
-        ImageIcon iict = new ImageIcon("src/images/Clicked-Tile.jpg");
+        ImageIcon iict = new ImageIcon("Minesweeper/src/images/Clicked-Tile.jpg");
         Clicked_Tile = iict.getImage();
 
-        ImageIcon iitt = new ImageIcon("src/images/title.jpg");
+        ImageIcon iitt = new ImageIcon("Minesweeper/src/images/title.jpg");
         Title = iitt.getImage();
 
-        ImageIcon iie = new ImageIcon("src/images/explosion.jpg");
+        ImageIcon iie = new ImageIcon("Minesweeper/src/images/explosion.jpg");
         Explosion=iie.getImage();
     }
     @Override
