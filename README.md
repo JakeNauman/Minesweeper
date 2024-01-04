@@ -1,7 +1,8 @@
 # Minesweeper
 Interactive Minesweeper game written in Java
 
-7/12/22 Project to try to get a bit more complicated with Java. Working with graphics was a nightmare, but once that was figured out creating the actual game wasn't too difficult. All code and 'art' was made completely by me using reference to other java Swing projects. I could add more features in the future but eh
+7/12/22 Project to try to improve my java skills while working with interactive UI. All code and 'art' was made completely by me using reference to other java Swing projects. I'm proud of how this project turned out and the inner workings were not as complicated as I had previously thought.
 
-To test it out simply open the Minesweeper folder in your IDE with Java installed. It was made in VSCode but Eclipse should work.
+Feel free to clone it to try it out or check it out on my projects page at
+https://jakenauman.github.io/Portfolio/#/home
 
